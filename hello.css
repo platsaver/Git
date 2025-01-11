@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: auto;
+    font-weight: bold;
+}
+
+h2{
+    color: gray;
+    font-size: 14px;
+}
+h3{
+    font-size: 13px;
+    color:brown;
+}
+p{
+    font-style: bold;
+}
