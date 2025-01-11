@@ -3,7 +3,12 @@
     width: 750px;
 }
 
-.chonky-2{
+.chonky-2, .chonky-4{
     height: 200px;
     width: 160px;
+}
+
+.chonky-3{
+    height: 200px;
+    width: 300px;
 }
